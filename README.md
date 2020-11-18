@@ -2,7 +2,7 @@
 
 ### 1st Step: Reproduce the Paper from Badr et al (2014) 'Application of Statistical Models of the Prediction of Seasonal Rainfall Anomalies over the Sahel'
 
-Note: The underlying data used here is not always the same like in Badr et al. (2014).\
+Note: The underlying data used here is not always the same as in Badr et al. (2014).\
 In general I used the most recent versions of the single data sets.
 
 - In the nb_sahelrainfall.ipynb plot a time series from the Sahel Precipitation Index (SPI).
