@@ -22,6 +22,3 @@ In general I used the most recent versions of the single data sets.
 - For the model prediction Badr et al. (2014) used a total set of 20 predictor variables.\
     In nb_predictor_indices.ipynb the according 20 AMJ predictors are computed.
 
-
-
-irgenwas anderes unten drunter
